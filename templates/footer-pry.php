@@ -1,0 +1,1 @@
+<footer class="p-4 text-white bg-secondary">&copy; 2019 Adisa Abass Richard</footer>
